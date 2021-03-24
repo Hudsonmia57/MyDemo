@@ -8,6 +8,7 @@ public class GitHubPractice {
 		
 		System.out.println("Hello there, I'm new");
 		
+		divNum(10, 2);
 		
 	}
 	
